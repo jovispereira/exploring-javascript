@@ -1,4 +1,4 @@
-// Estudando a base do JavaScript
+// Estudando a base do JavaScript e suas boas práticas
 // Usando o REPL no NodeJS
 
 console.log("Meu primeiro programa: trabalhando com variáveis");
