@@ -1,2 +1,2 @@
 # Ignore a pasta .vscode de depuração
-.vscode
+.vscode/
